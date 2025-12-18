@@ -1,5 +1,7 @@
 # Modern Landing Page
 
+![Deploy Status](https://github.com/Theoutrace/modern-landing-page/actions/workflows/deploy.yml/badge.svg)
+
 A beautiful, responsive landing page with three main sections:
 - **Hero Section**: Eye-catching introduction with call-to-action
 - **Features Section**: Showcase of key features and benefits
