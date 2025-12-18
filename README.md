@@ -7,6 +7,15 @@ A beautiful, responsive landing page with three main sections:
 - **Features Section**: Showcase of key features and benefits
 - **About Section**: Information about the project with statistics
 
+## 🧮 Loan EMI Calculator
+
+A fully functional **Loan EMI Calculator** (`emi-calculator.html`) that helps you:
+- Calculate Equated Monthly Installment (EMI)
+- View total interest payable
+- See payment breakdown
+- Real-time calculations with interactive sliders
+- Beautiful, modern UI with responsive design
+
 ## Features
 
 - Modern, gradient-based design
@@ -25,6 +34,10 @@ A beautiful, responsive landing page with three main sections:
 ## Getting Started
 
 Simply open `index.html` in your web browser to view the landing page.
+
+### EMI Calculator
+
+Access the Loan EMI Calculator at `emi-calculator.html` or click the calculator button on the landing page.
 
 ## Deployment
 
